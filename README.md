@@ -1,5 +1,5 @@
 <h1 align="center">WHONIXX 🚀</h1>
-<h3 align="center">Fullstack Developer | Tech Explorer | Problem Solver</h3>
+<h3 align="center">Fullstack & Mobile Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=whonixxdev&color=blueviolet&style=flat-square" />
@@ -8,37 +8,29 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔥 Passionate about Web & Software Development  
-- 🌱 Currently exploring AI & Backend Systems  
-- 🛠️ Love building real-world projects  
-- ⚡ Always learning something new  
+- 🔥 Passionate about Web & Mobile Development  
+- 🚀 Building scalable backend & modern frontend  
+- ⚡ Always learning and improving  
 
 ---
 
 # 🚀 Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mysql,mongodb,docker" />
-</p>
-
----
-
-# 💻 Bahasa Pemrograman
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,java,cpp,cs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,php,dart,kotlin" />
 </p>
 
 ---
 
 # ⚙️ Framework
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,nestjs,flutter,firebase,mongodb" />
 </p>
 
 ---
 
-# 🛠 Tools yang Saya Gunakan
+# 🛠 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" />
+  <img src="https://skillicons.dev/icons?i=vscode,github,androidstudio,bash,postman" />
 </p>
 
 ---
@@ -51,5 +43,5 @@
 
 ---
 
-## 🧠 Quote
-> "Code. Build. Improve. Repeat." ⚡
+## 🧠 Philosophy
+> "Code. Build. Scale. Repeat." ⚡
