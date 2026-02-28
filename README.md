@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=MasterJudah%20here%20🔥&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Whonixxdev Is%20here%20🔥&fontSize=50" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53D1F7&center=true&vCenter=true&width=435&lines=Namaste+🙏+I'm+Joshua+Thadi" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=53D1F7&center=true&vCenter=true&width=435&lines=Namaste+🙏+I'm+Whonixx+Dev" />
 </p>
 
 ---
